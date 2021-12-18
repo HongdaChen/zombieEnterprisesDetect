@@ -13,19 +13,21 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: rgba(227, 160, 93, 0.6);
 }
 
 #d h1 {
     color: white;
     text-transform: uppercase;
     font-weight: 500;
+    margin-top: 1px;
+    font-size: 40px;
     text-align: center;
 }
 
 #d input[class="one"] {
     background: none;
     margin: 20px auto;
+    margin-left: 20px;
     text-align: center;
     border: 2px solid #2ecc71;
     padding: 14px 10px;
@@ -38,6 +40,7 @@ body {
 #d input[class="two"] {
     background: none;
     margin: 20px auto;
+    margin-left: 20px;
     text-align: center;
     border: 2px solid #2ecc71;
     padding: 14px 10px;
@@ -50,6 +53,7 @@ body {
 #d input[class="three"] {
     background: none;
     margin: 20px auto;
+    margin-left: 20px;
     text-align: center;
     border: 2px solid #2ecc71;
     padding: 14px 10px;
@@ -62,6 +66,7 @@ body {
 #d input[class="four"] {
     background: none;
     margin: 20px auto;
+    margin-left: 20px;
     text-align: center;
     border: 2px solid #2ecc71;
     padding: 14px 10px;
@@ -79,6 +84,7 @@ body {
     text-align: center;
     border: 2px solid #2ecc71;
     padding: 14px 40px;
+    font-size: 15px;
     width: 200px;
     outline: none;
     color: white;

@@ -13,7 +13,6 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: rgba(227, 160, 93, 0.6);
     text-align: center;
 }
 
@@ -21,6 +20,7 @@ body {
     color: white;
     text-transform: uppercase;
     font-weight: 500;
+    font-size: 40;
 }
 
 .box input[type="text"] {
@@ -30,8 +30,9 @@ body {
     margin: 20px auto;
     text-align: center;
     border: 2px solid #2ecc71;
+    font-size: 15px;
     padding: 14px 10px;
-    width: 300px;
+    width: 200px;
     outline: none;
     color: white;
     border-radius: 24px;
@@ -51,7 +52,8 @@ body {
     text-align: center;
     border: 2px solid #2ecc71;
     padding: 14px 40px;
-    width: 280px;
+    font-size: 15px;
+    width: 200px;
     outline: none;
     color: white;
     border-radius: 24px;

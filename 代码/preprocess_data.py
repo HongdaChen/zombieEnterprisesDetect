@@ -13,33 +13,8 @@ def _my_read_csv(f):
 
 
 class Process:
-    """Preprocess the given data.
-
-        Parameters
-        ----------
-        base : the location of base information.(string)
-
-        knowledge : the location of knowledge information.(string)
-
-        money_report : the location of money_report information.(string)
-
-        year_report : the location of year_report information.(string)
-
-        encoder : bool to decide if encode the string feature ; default(True).
-
-        drop_flag : bool to decide if drop the data which "flag" is empty ; default(True).
-
-        standard : bool to decide if make the numerical data standard by (x-u)/std ; default(True).
-
-        features : int to decide how many features to use. [1,15],default(2)
-
-        Returns
-        -------
-        datafile.
-
-    """
-
-    def __init__(self, base, knowledge, money_report, year_report, encoder=True, drop_flag=True, standard=True, features=2):
+    def __init__(self, base, knowledge, money_report, year_report, encoder=True, drop_flag=True, standard=True,
+                 features=2):
         self.base = base
         self.knowledge = knowledge
         self.money_report = money_report
@@ -70,7 +45,6 @@ class Process:
             ss = StandardScaler()
             no_year['注册资本'] = ss.fit_transform(no_year['注册资本'].values.reshape(-1, 1))
             no_year['注册时间'] = ss.fit_transform(no_year['注册时间'].values.reshape(-1, 1))
-
         # 编码
         if self.encoder:
             for col in no_year.columns:
@@ -97,9 +71,10 @@ class Process:
             processed_all_data.dropna(inplace=True)
         # 提取特征
         if self.features != 0:
-            feature = ['flag', '纳税总额', '净利润', '注册资本', '负债总额', '从业人数', '营业总收入', '利润总额', '注册时间',
-                       '资产总额', '内部融资和贸易融资成本', '债权融资成本', '行业', '内部融资和贸易融资额度',
+            feature = ['flag', '纳税总额', '净利润', '注册资本', '负债总额', '从业人数', '营业总收入', '利润总额',
+                       '注册时间', '资产总额', '内部融资和贸易融资成本', '债权融资成本', '行业', '内部融资和贸易融资额度',
                        '控制人持股比例', '项目融资和政策融资额度']
+
             if 'flag' in processed_all_data.columns:
                 processed_all_data = processed_all_data[feature[:1 + self.features]]
             else:
@@ -109,22 +84,6 @@ class Process:
 
     def alpha_process_csv(self, base_verify, paient_information_verify1, money_information_verify1,
                           year_report_verify1):
-        """Preprocess all the given data before training the model and correspond with the dynamic method.
-        Parameters
-        ----------
-        base_verify : the location of base_verify information.(string)
-
-        paient_information_verify1 : the location of paient_information_verify1 information.(string)
-
-        money_information_verify1 : the location of money_information_verify1 information.(string)
-
-        year_report_verify1 : the location of year_report_verify1 information.(string)
-
-        Returns
-        -------
-        datafile.
-
-        """
         # 读入
         base_train_sum = _my_read_csv(self.base)
         knowledge_train = _my_read_csv(self.knowledge)
@@ -144,14 +103,6 @@ class Process:
         return result
 
     def beta_process_csv(self):
-        """Preprocess the test data.
-        Parameters
-        ----------
-        No parameters.
-        Returns
-        -------
-        datafile.
-        """
         base = _my_read_csv(self.base)
         knowledge = _my_read_csv(self.knowledge)
         money = _my_read_csv(self.money_report)

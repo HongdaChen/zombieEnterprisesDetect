@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="288cae61-e3ff-40f8-aeb0-8e580df354d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="a8cb8321-9486-438c-b17e-a4900e5a5b13" />
+  <component name="ProjectId" id="1ZiTBr9Dp23OtQypa0qlfU0Ej6E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\final_z\static" />
+      <recent name="C:\Users\chenhongda\Desktop\final_z\static" />
+      <recent name="C:\Users\chenhongda\Desktop\flask\flask\static" />
+      <recent name="C:\Users\chenhongda\Desktop\flask\flask" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chenhongda\Desktop\flask\flask\temp_data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.final_z">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/flask/flask/templates/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="final_z" type="PythonConfigurationType" factoryName="Python">
+      <module name="final_z" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocess_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask/preprocess_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../final_zombie" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../final_zombie/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\pycharm\b\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.run (1)" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.preprocess_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="288cae61-e3ff-40f8-aeb0-8e580df354d6" name="Default Changelist" comment="" />
+      <created>1585320781079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585320781079</updated>
+      <workItem from="1585320786512" duration="7178000" />
+      <workItem from="1585347454181" duration="13493000" />
+      <workItem from="1585361964328" duration="1013000" />
+      <workItem from="1585371641018" duration="3229000" />
+      <workItem from="1585398678740" duration="2831000" />
+      <workItem from="1585403261602" duration="647000" />
+      <workItem from="1585447128375" duration="4668000" />
+      <workItem from="1588408588320" duration="896000" />
+      <workItem from="1588768955753" duration="2475000" />
+      <workItem from="1588782915249" duration="205000" />
+      <workItem from="1588901309802" duration="2381000" />
+      <workItem from="1589022431990" duration="449000" />
+      <workItem from="1589075234653" duration="11270000" />
+      <workItem from="1589113762505" duration="1335000" />
+      <workItem from="1589624777349" duration="4237000" />
+      <workItem from="1589637524855" duration="51000" />
+      <workItem from="1589673846867" duration="1066000" />
+      <workItem from="1589699557943" duration="5880000" />
+      <workItem from="1589941235320" duration="855000" />
+      <workItem from="1590049560329" duration="2748000" />
+      <workItem from="1590052527222" duration="135000" />
+      <workItem from="1590052802648" duration="314000" />
+      <workItem from="1590057640094" duration="42000" />
+      <workItem from="1590057764085" duration="614000" />
+      <workItem from="1590143510566" duration="1061000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="4" key="#Deployment" timestamp="1590051397164">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="4" key="#Deployment/0.0.1280.689@0.0.1280.689" timestamp="1588769407878" />
+    <state x="233" y="4" key="#Deployment/0.0.1280.720@0.0.1280.720" timestamp="1590051397164" />
+    <state x="484" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590149037274">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1590149037274" />
+    <state x="371" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590144260602">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1585362490463" />
+    <state x="371" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1590144260602" />
+    <state x="477" y="25" key="#run" timestamp="1589257679263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="25" key="#run/0.0.1536.824@0.0.1536.824" timestamp="1589257679263" />
+    <state x="421" y="128" key="FileChooserDialogImpl" timestamp="1589702622390">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="122" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1585356122050" />
+    <state x="421" y="128" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1589702622390" />
+    <state x="505" y="146" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589257660817" />
+    <state width="1237" height="173" key="GridCell.Tab.0.bottom" timestamp="1589702739771">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="199" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1588783117014" />
+    <state width="1237" height="173" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1589702739771" />
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589623962184" />
+    <state width="1237" height="173" key="GridCell.Tab.0.center" timestamp="1589702739771">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="199" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1588783117014" />
+    <state width="1237" height="173" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1589702739771" />
+    <state width="1515" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589623962184" />
+    <state width="1237" height="173" key="GridCell.Tab.0.left" timestamp="1589702739771">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="199" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1588783117014" />
+    <state width="1237" height="173" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1589702739771" />
+    <state width="1515" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589623962184" />
+    <state width="1237" height="173" key="GridCell.Tab.0.right" timestamp="1589702739771">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="199" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1588783117014" />
+    <state width="1237" height="173" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1589702739771" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589623962184" />
+    <state width="1237" height="96" key="GridCell.Tab.1.bottom" timestamp="1585328071730">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="96" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1585328071730" />
+    <state width="1237" height="96" key="GridCell.Tab.1.center" timestamp="1585328071730">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="96" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1585328071730" />
+    <state width="1237" height="96" key="GridCell.Tab.1.left" timestamp="1585328071730">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="96" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1585328071730" />
+    <state width="1237" height="96" key="GridCell.Tab.1.right" timestamp="1585328071730">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="96" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1585328071730" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1589941255105">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1589941255105" />
+    <state x="498" y="254" key="WebDeployment.AddServerDialog.v.1" timestamp="1590051075303">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="498" y="243" key="WebDeployment.AddServerDialog.v.1/0.0.1280.689@0.0.1280.689" timestamp="1588769304679" />
+    <state x="498" y="254" key="WebDeployment.AddServerDialog.v.1/0.0.1280.720@0.0.1280.720" timestamp="1590051075303" />
+    <state x="324" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1590143510031">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="324" y="191" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1588782915227" />
+    <state x="324" y="200" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1590143510031" />
+    <state x="510" y="225" key="publish.login" timestamp="1590052935008">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="510" y="225" key="publish.login/0.0.1280.720@0.0.1280.720" timestamp="1590052935008" />
+    <state x="254" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1589699601952">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="254" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1589699601952" />
+  </component>
+</project>

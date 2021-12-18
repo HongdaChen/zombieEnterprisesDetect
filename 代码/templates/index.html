@@ -8,19 +8,17 @@
 <body >
 <form id="d" action="/letter" method="post" enctype="multipart/form-data" >
 			<h1>僵尸企业分类</h1>
-            <input class="one" type="file"  name="file1" />
+            <input class="two" type="file"  name="file1" />
             <input class="two" type="file"  name="file2" />
             <input class="three" type="file" name="file3" />
             <input class="four" type="file" name="file4" />
             <input type="submit" value="上传" />
-            <div style="text-align: center;color:#fff">
+            <div style="text-align: center;color:#fff;font-size:30px">
                 {{ result }}
-                <span style="color:red">{{description}}</span>
-                <span style="color:#fff">{{sss}}</span>
+                <span style="color:blue;font-size:30px">{{description}}</span>
+                <span style="color:#fff;font-size:30px">{{sss}}</span>
             </div>
-            <div><a href="{{ url_for('wowk') }}">回首页</a> </div>
+            <div><a href="{{ url_for('wowk') }}"><img src="../static/4.png"></a> </div>
 </form>
-
-
 </body>
 </html>
