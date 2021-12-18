@@ -41,10 +41,19 @@ matplotlib 3.1.3
 python run.py
 ```
 
-![main](assets/1.png)
 
-![2](assets/2.png)
 
-![3](assets/3.png)
+![1](https://cdn.jsdelivr.net/gh/HongdaChen/image-home@master/20210612/1.59tt87q5y880.png) 
 
-![4](assets/5.png)
+
+![2](https://cdn.jsdelivr.net/gh/HongdaChen/image-home@master/20210612/2.4tdy0ey06co0.png)
+
+
+![3](https://cdn.jsdelivr.net/gh/HongdaChen/image-home@master/20210612/3.2qy8vyx4yg80.png)
+
+![5](https://cdn.jsdelivr.net/gh/HongdaChen/image-home@master/20210612/5.3v5gy6rttkm0.png)
+
+
+
+
+
