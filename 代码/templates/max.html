@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <title>Ready</title>
+    <link rel="stylesheet" type="text/css" href="static/style1.css" charset="UTF-8">
+</head>
+<body>
+
+<div>
+<form class="box" action="/former" method="post">
+    <h1>僵尸企业分类</h1>
+    <input type="text" name="纳税总额" placeholder="纳税总额" required="required">
+    <input type="text" name="净利润" placeholder="净利润" required="required">
+    <input type="submit" name="" value="启动算法">
+    <p >{{ probability }} </p>
+    <p >{{ prediction_text }}</p>
+    <div><a href="{{ url_for('wowk') }}">回首页</a> </div>
+
+</form>
+
+</div>
+</body>
+</html>

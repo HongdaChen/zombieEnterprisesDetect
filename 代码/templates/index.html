@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>豌豆射手</title>
+    <link rel="stylesheet" type="text/css" href="static/style.css">
+</head>
+<body >
+<form id="d" action="/letter" method="post" enctype="multipart/form-data" >
+			<h1>僵尸企业分类</h1>
+            <input class="one" type="file"  name="file1" />
+            <input class="two" type="file"  name="file2" />
+            <input class="three" type="file" name="file3" />
+            <input class="four" type="file" name="file4" />
+            <input type="submit" value="上传" />
+            <div style="text-align: center;color:#fff">
+                {{ result }}
+                <span style="color:red">{{description}}</span>
+                <span style="color:#fff">{{sss}}</span>
+            </div>
+            <div><a href="{{ url_for('wowk') }}">回首页</a> </div>
+</form>
+
+
+</body>
+</html>
